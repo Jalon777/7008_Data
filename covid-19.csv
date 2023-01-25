@@ -1,9 +1,0 @@
-id,country,patient_name,patient_type,date_of_illness,date of birth,age,sex,vaccine_data,vaccine_type,vaccine_name,vaccine_price
-1,Malaysia,A,COVID-19 asymptomatic patients,2020/8/15,1997/4/7,25,Male,2019/8/1,vaccine_covid19,Johnson & Johnson,8.5
-2,China,B,COVID-19 symptomatic patients,2019/12/26,1983/12/17,36,Female,2020/5/3,vaccine_covid19,Oxford/AstraZeneca,4
-3,South Korea,C,people who died from COVID-19,2020/1/2,1978/11/15,41,Male,2021/5/4,vaccine_covid19,Sanofi/GSK,10.5
-4,Italy,D,people who recovered from COVID-19,2020/1/7,1985/3/4,38,Male,2020/12/5,vaccine_covid19,Pfizer/BioNTech,19.5
-5,Iran,E,COVID-19 asymptomatic patients,2020/1/11,1995/8/14,27,Female,2021/5/6,vaccine_covid19,Novavax,16
-6,Spain,F,COVID-19 asymptomatic patients,2020/1/12,1994/7/8,28,Female,2022/5/7,vaccine_covid19,Moderna,15
-7,American,G,,,,,,,,,
-4,Italy,D,COVID-19 asymptomatic patients,2020/1/14,1985/3/4,38,Male,2020/12/5,vaccine_covid19,Pfizer/BioNTech,19.5
